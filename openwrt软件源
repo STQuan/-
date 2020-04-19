@@ -1,0 +1,8 @@
+src / gz 19.04_core http://pandorabox.tuuz.cc:8000/pandorabox/19.04/targets/ar71xx/generic/packages
+src / gz 19.04_base http://pandorabox.tuuz.cc:8000/pandorabox/19.04/packages / mips_74kc / base
+src / gz 19.04_newifi http://pandorabox.tuuz.cc:8000/pandorabox/19.04/packages/mips_74kc/newifi
+src / gz 19.04_pear http://pandorabox.tuuz.cc:8000/pandorabox/19.04 / packages / mips_74kc / pear
+src / gz 19.04_packages http://pandorabox.tuuz.cc:8000/pandorabox/19.04/packages/mips_74kc/packages
+src / gz 19.04_luci http://pandorabox.tuuz.cc:8000/pandorabox /19.04/packages/mips_74kc/luci
+src / gz 19.04_lafite http://pandorabox.tuuz.cc:8000/pandorabox/19.04/packages/mips_74kc/lafite
+src / gz 19.04_mtkdrv http://pandorabox.tuuz.cc:8000/pandorabox/19.04/packages/mips_74kc/mtkdrv
